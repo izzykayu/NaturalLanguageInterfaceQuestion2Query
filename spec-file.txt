@@ -1,0 +1,42 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-64
+@EXPLICIT
+https://repo.continuum.io/pkgs/main/osx-64/ca-certificates-2018.03.07-0.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/intel-openmp-2018.0.0-8.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/jpeg-9b-he5867d9_2.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/libcxxabi-4.0.1-hebd6815_0.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/libgfortran-3.0.1-h93005f0_2.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/tk-8.6.7-h35a86e2_3.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/xz-5.2.4-h1de35cc_4.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/zlib-1.2.11-hf3cbc9b_2.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/libcxx-4.0.1-h579ed51_0.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/libpng-1.6.34-he12f830_0.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/mkl-2018.0.2-1.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/openssl-1.0.2o-h26aff7b_0.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/freetype-2.8-h12048fb_1.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/libffi-3.2.1-h475c297_4.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/libtiff-4.0.9-hcb84e12_1.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/ncurses-6.0-hd04f020_2.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/libedit-3.1-hb4e282d_0.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/readline-7.0-hc1231fa_4.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/sqlite-3.22.0-h3efe00b_0.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/python-2.7.14-h138c1fe_30.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/certifi-2018.4.16-py27_0.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/ninja-1.8.2-py27h04f5b5a_1.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/olefile-0.45.1-py27_0.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/pycparser-2.18-py27h0d28d88_1.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/pytz-2018.4-py27_0.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/six-1.11.0-py27h7252ba3_1.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/cffi-1.11.5-py27h342bebf_0.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/pillow-5.1.0-py27hfcce615_0.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/python-dateutil-2.7.2-py27_0.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/setuptools-38.5.1-py27_0.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/wheel-0.30.0-py27h677a027_1.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/pip-9.0.1-py27_5.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/mkl_fft-1.0.1-py27h917ab60_0.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/mkl_random-1.0.1-py27h78cc56f_0.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/numpy-1.14.2-py27ha9ae307_1.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/pandas-0.22.0-py27h0a44026_0.tar.bz2
+https://conda.anaconda.org/pytorch/osx-64/pytorch-0.4.0-py27_cuda0.0_cudnn0.0_1.tar.bz2
+https://conda.anaconda.org/pytorch/osx-64/torchvision-0.2.1-py27_1.tar.bz2
