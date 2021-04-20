@@ -1,0 +1,280 @@
+{"STATE@0": "'alabama'"}
+{"STATE@0": "'california'"}
+{"STATE@0": "'utah'"}
+{"POINT@0": "'mount mckinley'"}
+{}
+{"STATE@0": "'alabama'"}
+{"STATE@0": "'alaska'"}
+{"STATE@0": "'texas'"}
+{"RIVER@0": "'colorado'"}
+{"RIVER@0": "'delaware'"}
+{"STATE@0": "'california'"}
+{}
+{"RIVER@0": "'north platte'"}
+{"RIVER@0": "'ohio'"}
+{"STATE@0": "'rhode island'"}
+{}
+{}
+{"RIVER@0": "'colorado'"}
+{"CITY@0": "'austin'"}
+{"CITY@0": "'detroit'"}
+{"CITY@0": "'houston'"}
+{"STATE@0": "'minnesota'", "CITY@0": "'minneapolis'"}
+{"STATE@0": "'mississippi'"}
+{"STATE@0": "'rhode island'"}
+{"STATE@0": "'new york'"}
+{"STATE@0": "'texas'"}
+{}
+{"STATE@0": "'utah'"}
+{"STATE@0": "'texas'"}
+{"STATE@0": "'iowa'"}
+{}
+{"STATE@0": "'colorado'"}
+{}
+{}
+{}
+{"STATE@0": "'iowa'"}
+{}
+{"STATE@0": "'tennessee'"}
+{}
+{}
+{}
+{"STATE@0": "'texas'"}
+{"POINT@0": "'mount mckinley'"}
+{"STATE@0": "'montana'"}
+{"STATE@0": "'iowa'"}
+{"STATE@0": "'colorado'"}
+{"STATE@0": "'florida'"}
+{"CITY@0": "'boulder'"}
+{"STATE@0": "'iowa'"}
+{"STATE@0": "'new york'"}
+{"CITY@0": "'san antonio'"}
+{"STATE@0": "'texas'"}
+{"STATE@0": "'texas'"}
+{"STATE@0": "'texas'"}
+{"STATE@0": "'texas'"}
+{"STATE@0": "'missouri'"}
+{"RIVER@0": "'mississippi'"}
+{}
+{}
+{"STATE@0": "'alabama'"}
+{"STATE@0": "'alaska'"}
+{"STATE@0": "'new york'"}
+{"RIVER@0": "'mississippi'"}
+{"STATE@0": "'california'"}
+{}
+{"STATE@0": "'vermont'"}
+{"STATE@0": "'ohio'"}
+{}
+{"STATE@0": "'mississippi'"}
+{"RIVER@0": "'mississippi'"}
+{"RIVER@0": "'mississippi'"}
+{"STATE@0": "'texas'"}
+{"STATE@0": "'texas'"}
+{"STATE@0": "'alaska'"}
+{}
+{}
+{}
+{"STATE@0": "'florida'"}
+{"STATE@0": "'ohio'"}
+{"STATE@0": "'texas'"}
+{"STATE@0": "'wisconsin'"}
+{}
+{}
+{"STATE@0": "'kansas'"}
+{"STATE@0": "'louisiana'"}
+{"STATE@0": "'california'"}
+{"STATE@0": "'colorado'"}
+{"STATE@0": "'illinois'"}
+{"STATE@0": "'iowa'"}
+{"STATE@0": "'massachusetts'"}
+{"STATE@0": "'new jersey'"}
+{"STATE@0": "'new york'"}
+{"STATE@0": "'north dakota'"}
+{"STATE@0": "'ohio'"}
+{"CITY@0": "'durham'"}
+{"STATE@0": "'florida'"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"STATE@0": "'new york'"}
+{"STATE@0": "'texas'"}
+{}
+{}
+{}
+{"STATE@0": "'delaware'"}
+{"STATE@0": "'iowa'"}
+{"STATE@0": "'maine'"}
+{"STATE@0": "'montana'"}
+{"STATE@0": "'nevada'"}
+{"STATE@0": "'georgia'"}
+{"STATE@0": "'colorado'"}
+{"CITY@0": "'austin'"}
+{}
+{"STATE@0": "'virginia'"}
+{}
+{}
+{"STATE@0": "'wyoming'"}
+{}
+{"STATE@0": "'california'"}
+{"STATE@0": "'rhode island'"}
+{"RIVER@0": "'mississippi'"}
+{}
+{"STATE@0": "'washington'"}
+{"STATE@0": "'arkansas'"}
+{"STATE@0": "'texas'"}
+{}
+{"RIVER@0": "'colorado'"}
+{"STATE@0": "'texas'"}
+{"RIVER@0": "'mississippi'"}
+{}
+{}
+{"STATE@0": "'florida'"}
+{}
+{"STATE@0": "'nebraska'"}
+{}
+{"STATE@0": "'indiana'"}
+{"STATE@0": "'arkansas'"}
+{"STATE@0": "'massachusetts'"}
+{"STATE@0": "'mississippi'"}
+{"STATE@0": "'nebraska'"}
+{"STATE@0": "'california'"}
+{}
+{"RIVER@0": "'colorado'"}
+{"POINT@0": "'san francisco'"}
+{}
+{}
+{}
+{"RIVER@0": "'mississippi'"}
+{"STATE@0": "'maine'"}
+{}
+{"STATE@0": "'alaska'"}
+{"CITY@0": "'boulder'"}
+{"STATE@0": "'pennsylvania'", "CITY@0": "'erie'"}
+{"STATE@0": "'hawaii'"}
+{"CITY@0": "'houston'"}
+{"STATE@0": "'maryland'"}
+{"STATE@0": "'new mexico'"}
+{"CITY@0": "'new york'"}
+{"CITY@0": "'san antonio'"}
+{"STATE@0": "'arizona'", "CITY@0": "'tempe'"}
+{}
+{}
+{}
+{}
+{"CITY@0": "'tucson'"}
+{"STATE@0": "'utah'"}
+{"STATE@0": "'washington'"}
+{}
+{}
+{}
+{"STATE@0": "'wyoming'"}
+{"RIVER@0": "'mississippi'"}
+{}
+{}
+{}
+{"RIVER@0": "'mississippi'"}
+{"STATE@0": "'pennsylvania'"}
+{}
+{}
+{"STATE@0": "'texas'"}
+{"STATE@0": "'texas'"}
+{"STATE@0": "'texas'"}
+{"STATE@0": "'new york'"}
+{}
+{}
+{"STATE@0": "'nevada'"}
+{"STATE@0": "'new york'"}
+{}
+{"RIVER@0": "'colorado'"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"CITY@0": "'austin'"}
+{"CITY@0": "'miami'"}
+{}
+{"STATE@0": "'arizona'"}
+{"STATE@0": "'florida'"}
+{"STATE@0": "'indiana'"}
+{"STATE@0": "'michigan'"}
+{"STATE@0": "'montana'"}
+{"STATE@0": "'new jersey'"}
+{"STATE@0": "'mississippi'"}
+{"RIVER@0": "'ohio'"}
+{"STATE@0": "'texas'"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"RIVER@0": "'delaware'"}
+{"RIVER@0": "'mississippi'"}
+{"RIVER@0": "'missouri'"}
+{"RIVER@0": "'ohio'"}
+{"CITY@0": "'dallas'"}
+{"CITY@0": "'plano'"}
+{"CITY@0": "'portland'"}
+{"CITY@0": "'rochester'"}
+{"CITY@0": "'salt lake city'"}
+{"STATE@0": "'kentucky'"}
+{}
+{"CITY@0": "'dallas'"}
+{"CITY@0": "'portland'"}
+{"RIVER@0": "'chattahoochee'"}
+{}
+{"STATE@0": "'hawaii'"}
+{"STATE@0": "'maryland'"}
+{"STATE@0": "'new mexico'"}
+{}
+{"STATE@0": "'california'"}
+{}
+{"STATE@0": "'alaska'"}
+{}
+{}
+{"STATE@0": "'pennsylvania'"}
+{}
+{}
+{"STATE@0": "'texas'"}
+{"@0": "'usa'"}
+{"CITY@0": "'austin'"}
+{}
+{}
+{"STATE@0": "'hawaii'"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"STATE@0": "'idaho'"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"MOUNTAIN@0": "'mckinley'"}
+{}
+{"STATE@0": "'illinois'"}
+{"STATE@0": "'kentucky'"}
+{"RIVER@0": "'missouri'"}
+{}
+{}
+{"RIVER@0": "'chattahoochee'"}
+{}
+{"RIVER@0": "'mississippi'"}
+{}
+{"CITY@0": "'austin'"}
+{}

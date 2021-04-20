@@ -1,0 +1,177 @@
+How many patients suffer from PROBLEM_1
+How many patients have PROBLEM_1
+How many PROBLEM_1 patients have been admitted
+How many patients have been administered TREATMENT_1
+How many patients have been given TREATMENT_1
+What problems did patients given TREATMENT_1 suffer from
+Which problems are treated with TREATMENT_1 
+Which drugs are used to treat PROBLEM_1
+Which drugs are administered to treat PROBLEM_1
+Which treatments are used to cure PROBLEM_1
+Which treatments are used for PROBLEM_1
+Which drugs were PROBLEM_1 patients given
+Which drugs were patients suffering from PROBLEM_1 given
+How many patients were given TREATMENT_1 and TREATMENT_2
+Which patients were given TREATMENT_1 and TREATMENT_2
+How many times were TREATMENT_1 and TREATMENT_2 administered together
+How many times were TREATMENT_1 and TREATMENT_2 given together
+How many patients suffering from PROBLEM_1 been given TREATMENT_1
+How many PROBLEM_1 patients have been given TREATMENT_1
+How many PROBLEM_1 patients have been administered TREATMENT_1
+How many people suffering from PROBLEM_1 were treated with TREATMENT_1
+How many PROBLEM_1 patients were given TREATMENT_1
+How many people with PROBLEM_1 were treated with TREATMENT_1
+How many people suffering from PROBLEM_1 were given TREATMENT_1
+How many people cured from PROBLEM_1 were given TREATMENT_1
+How many patients died with PROBLEM_1
+Which patients died with PROBLEM_1
+How many patients expired due to PROBLEM_1
+How many patients expired because of PROBLEM_1
+Which patients expired due to PROBLEM_1
+Which patients expired because of PROBLEM_1
+How many PROBLEM_1 patients died
+Which PROBLEM_1 patients expired
+How many patients died with PROBLEM_1 in the hospital
+Which patients died with PROBLEM_1 in the hospital
+How many patients expired due to PROBLEM_1 in the hospital
+How many patients expired because of PROBLEM_1 in the hospital
+Which patients expired due to PROBLEM_1 in the hospital
+Which patients expired because of PROBLEM_1 in the hospital
+Which PROBLEM_1 patients expired in the hospital
+How many PROBLEM_1 patients expired in the hospital
+Which patients were RELIGION_1 and died at the hospital?
+Which RELIGION_1 patients died at the hospital?
+Which patients belonged to RELIGION_1 religion and died at the hospital?
+How many patients were RELIGION_1 and died at the hospital?
+How many RELIGION_1 patients died at the hospital?
+How many people belonged to RELIGION_1 religion and died at the hospital?
+Which patients expired after TREATMENT_1
+Which patients died after TREATMENT_1
+How many patients expired after getting TREATMENT_1
+How many patients died after getting TREATMENT_1
+What dosage of TREATMENT_1 was provided in the hospital
+What dosage of TREATMENT_1 was administered
+What amounts of TREATMENT_1 was administered
+What quantities of TREATMENT_1 was given in the hospital
+What was the average length of stay in ICU for patients with no insurance
+What was the average length of stay in ICU for patients with INSURANCE_1
+What was the max length of stay in ICU for patients with no insurance
+What was the max length of stay in ICU for patients with INSURANCE_1
+What was the average length of stay in ICU for patients with no coverage
+What was the max length of stay in ICU for patients with no coverage
+What was the average length of stay in ICU for patients with no coverage
+How many ETHINICITY_1 patients suffer from PROBLEM_1
+How many patients have PROBLEM_1 who are ETHINICITY_1 
+How many PROBLEM_1 patients have been admitted who are ETHINICITY_1 
+How many ETHINICITY_1  patients have PROBLEM_1
+How many ETHINICITY_1  patients have been admitted for PROBLEM_1
+How many patients with PROBLEM_1 under NUMERIC_1 age
+How many PROBLEM_1 patients were under NUMERIC_1 age
+How many patients with PROBLEM_1 under NUMERIC_1 years
+How many PROBLEM_1 patients were under NUMERIC_1 years
+How many patients with PROBLEM_1 over NUMERIC_1 age
+How many PROBLEM_1 patients were over NUMERIC_1 age
+How many patients with PROBLEM_1 over NUMERIC_1 years
+How many PROBLEM_1 patients were over NUMERIC_1 years
+How many patients suffering from PROBLEM_1 were over NUMERIC_1 years
+How many patients suffering from PROBLEM_1 were under NUMERIC_1 years
+How many patients suffering from PROBLEM_1 were between NUMERIC_1 and NUMERIC_2 years
+How many patients with PROBLEM_1 were between NUMERIC_1 and NUMERIC_2 years
+How many PROBLEM_1 patients were between NUMERIC_1 and NUMERIC_2 years
+How many patients suffering from PROBLEM_1 were between NUMERIC_1 and NUMERIC_2 years of age
+How many patients with PROBLEM_1 were between NUMERIC_1 and NUMERIC_2 years of age
+How many PROBLEM_1 patients were between NUMERIC_1 and NUMERIC_2 years of age
+How many females suffer from PROBLEM_1
+How many female patients suffer from PROBLEM_1
+How many PROBLEM_1 patients are females
+How many patients have PROBLEM_1 and are females
+How many PROBLEM_1 patients have been admitted who are females
+How many female patients have PROBLEM_1 
+How many males suffer from PROBLEM_1
+How many male patients suffer from PROBLEM_1
+How many PROBLEM_1 patients are males
+How many patients have PROBLEM_1 and are males
+How many PROBLEM_1 patients have been admitted who are males
+How many male patients have PROBLEM_1 
+How many patients were tested for TEST_1
+How many patients had TEST_1 test performed
+How many patients were tested for TEST_1 positive
+How many patients had positive TEST_1 test
+How many patients had positive labs for TEST_1
+How many patients had positive results for TEST_1
+How many patients had TEST_1 test performed and had positive results
+How many patients were tested for TEST_1 and had positive results
+How many patients were tested for TEST_1 negative
+How many patients had negative TEST_1 test
+How many patients had negative labs for TEST_1
+How many patients had negative results for TEST_1
+How many patients had TEST_1 test performed and had negative results
+How many patients were tested for TEST_1 and had negative results
+How many patients were tested for TEST_1 whose results were greater than NUMERIC_1
+How many patients had TEST_1 test whose results were greater than NUMERIC_1
+How many patients had labs for TEST_1 whose results were greater than NUMERIC_1
+How many patients had results for TEST_1 greater than NUMERIC_1
+How many patients had TEST_1 test performed and whose results were greater than NUMERIC_1
+How many patients were tested for TEST_1 and had results greater than NUMERIC_1
+How many patients were tested for TEST_1 whose results were above NUMERIC_1
+How many patients had TEST_1 test whose results were above NUMERIC_1
+How many patients had labs for TEST_1 whose results were above NUMERIC_1
+How many patients had results for TEST_1 above NUMERIC_1
+How many patients had TEST_1 test performed and whose results were above NUMERIC_1
+How many patients were tested for TEST_1 and had results above NUMERIC_1
+How many patients were tested for TEST_1 whose results were lesser than NUMERIC_1
+How many patients had TEST_1 test whose results were lesser than NUMERIC_1
+How many patients had labs for TEST_1 whose results were lesser than NUMERIC_1
+How many patients had results for TEST_1 lesser than NUMERIC_1
+How many patients had TEST_1 test performed and whose results were lesser than NUMERIC_1
+How many patients were tested for TEST_1 and had results lesser than NUMERIC_1
+How many patients were tested for TEST_1 whose results were below NUMERIC_1
+How many patients had TEST_1 test whose results were below NUMERIC_1
+How many patients had labs for TEST_1 whose results were below NUMERIC_1
+How many patients had results for TEST_1 below NUMERIC_1
+How many patients had TEST_1 test performed and whose results were below NUMERIC_1
+How many patients were tested for TEST_1 and had results below NUMERIC_1
+How many patients were tested for TEST_1 whose results were between NUMERIC_1 and NUMERIC_2
+How many patients had TEST_1 test whose results were between NUMERIC_1 and NUMERIC_2
+How many patients had labs for TEST_1 whose results were between NUMERIC_1 and NUMERIC_2
+How many patients had results for TEST_1 between NUMERIC_1 and NUMERIC_2
+How many patients had TEST_1 test performed and whose results were between NUMERIC_1 and NUMERIC_2
+How many patients were tested for TEST_1 and had results between NUMERIC_1 and NUMERIC_2
+How many patients were tested for TEST_1 whose results were between NUMERIC_1 and NUMERIC_2
+How many patients had TEST_1 test whose results were between NUMERIC_1 and NUMERIC_2
+How many patients had labs for TEST_1 whose results were between NUMERIC_1 and NUMERIC_2
+How many patients had results for TEST_1 between NUMERIC_1 and NUMERIC_2
+How many patients had TEST_1 test performed and whose results were between NUMERIC_1 and NUMERIC_2
+How many patients were tested for TEST_1 and had results between NUMERIC_1 and NUMERIC_2
+How many patients suffering from PROBLEM_1 were tested for TEST_1
+How many PROBLEM_1 patients have been given TEST_1 test
+How many PROBLEM_1 patients have been tested for TEST_1
+How many people with PROBLEM_1 were tested for TEST_1
+How many people suffering from PROBLEM_1 were tested for TEST_1 
+How many patients suffering from PROBLEM_1 were tested for positive TEST_1
+How many PROBLEM_1 patients have been given TEST_1 test with positive results
+How many PROBLEM_1 patients have been tested for positive TEST_1
+How many people with PROBLEM_1 were tested for positive TEST_1
+How many people suffering from PROBLEM_1 were tested for positive TEST_1 
+How many patients suffering from PROBLEM_1 were tested for TEST_1 above NUMERIC_1
+How many PROBLEM_1 patients have been given TEST_1 test whose results were greater than NUMERIC_1
+How many PROBLEM_1 patients have been tested for TEST_1 above NUMERIC_1
+How many people with PROBLEM_1 were tested for TEST_1 with results greater than NUMERIC_1
+How many people suffering from PROBLEM_1 were tested for TEST_1 values greater than NUMERIC_1
+How many patients suffering from PROBLEM_1 were tested for TEST_1 below NUMERIC_1
+How many PROBLEM_1 patients have been given TEST_1 test whose results were less than NUMERIC_1
+How many PROBLEM_1 patients have been tested for TEST_1 below NUMERIC_1
+How many people with PROBLEM_1 were tested for TEST_1 with results lesser than NUMERIC_1
+How many people suffering from PROBLEM_1 were tested for TEST_1 values lesser than NUMERIC_1
+How many people were treated with TREATMENT_1 dosage greater than NUMERIC_1
+How many people were administered TREATMENT_1 greater than NUMERIC_1
+How many people were administered TREATMENT_1 dosage above NUMERIC_1
+How many people were given TREATMENT_1 dosage above NUMERIC_1 in the hospital
+How many people were treated with TREATMENT_1 dosage lesser than NUMERIC_1
+How many people were administered TREATMENT_1 lesser than NUMERIC_1
+How many people were administered TREATMENT_1 dosage below NUMERIC_1
+How many people were given TREATMENT_1 dosage below NUMERIC_1 in the hospital
+How many people were treated with TREATMENT_1 dosage between NUMERIC_1 and NUMERIC_2
+How many people were administered TREATMENT_1 between NUMERIC_1 and NUMERIC_2
+How many people were administered TREATMENT_1 dosage between NUMERIC_1 and NUMERIC_2
+How many people were given TREATMENT_1 dosage between NUMERIC_1 and NUMERIC_2 in the hospital

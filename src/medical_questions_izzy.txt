@@ -1,0 +1,4 @@
+How many patients were given ASA for NSTEMI
+How many patients who taking pravastatin were under 50
+
+
